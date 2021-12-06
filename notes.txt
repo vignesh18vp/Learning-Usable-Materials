@@ -65,3 +65,5 @@ Top YouTube playlist for Data Science and AI that you must check ----> https://w
 Imbalance dataset XgBoost = https://machinelearningmastery.com/xgboost-for-imbalanced-classification/
 Multiclass --> https://datascience.stackexchange.com/questions/16342/unbalanced-multiclass-data-with-xgboost
 Link will also be in github
+
+Threshold Moving for imbalanced dataset - https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/
