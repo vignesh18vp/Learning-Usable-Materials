@@ -1,0 +1,67 @@
+Flatten Nested JSON in Pandas ----> https://www.kaggle.com/jboysen/quick-tutorial-flatten-nested-json-in-pandas/notebook
+				    https://towardsdatascience.com/flattening-json-objects-in-python-f5343c794b10
+				    https://towardsdatascience.com/how-to-flatten-deeply-nested-json-objects-in-non-recursive-elegant-python-55f96533103d
+
+Delete the empty rows in excel - https://www.howtoexcel.org/tutorials/delete-blank-rows/
+
+df['ChangedDate'] = pd.to_datetime(df['ChangedDate'], format="%d-%m-%Y")
+df['ChangedDate'] = df['ChangedDate'].dt.date
+
+https://www.techiedelight.com/compare-dates-python/
+
+Converting date between DD/MM/YYYY and YYYY-MM-DD? ---> https://stackoverflow.com/questions/502726/converting-date-between-dd-mm-yyyy-and-yyyy-mm-dd
+ 
+Difference between two dates in Pandas DataFrame ----> https://stackoverflow.com/questions/37583870/difference-between-two-dates-in-pandas-dataframe
+
+Change column type in pandas ---> https://stackoverflow.com/questions/15891038/change-column-type-in-pandas
+
+Selecting rows in pandas DataFrame based on conditions ---> https://www.geeksforgeeks.org/selecting-rows-in-pandas-dataframe-based-on-conditions/
+
+Select all Rows with NaN Values in Pandas DataFrame ---> https://datatofish.com/rows-with-nan-pandas-dataframe/
+
+RESHAPE WIDE TO LONG IN PANDAS PYTHON WITH MELT() FUNCTION ---> https://www.datasciencemadesimple.com/reshape-wide-long-pandas-python-melt-function/
+							     https://datacarpentry.org/python-socialsci/12-long-and-wide/index.html
+							     https://stackoverflow.com/questions/22798934/pandas-long-to-wide-reshape-by-two-variables
+
+Turn Pandas Multi-Index into column ---> https://stackoverflow.com/questions/20110170/turn-pandas-multi-index-into-column
+
+Find the index of an item in a list of lists ----> https://stackoverflow.com/questions/9553638/find-the-index-of-an-item-in-a-list-of-lists
+
+How to (re)name an empty column header in a pandas dataframe without exporting to csv -----> https://stackoverflow.com/questions/41096611/how-to-rename-an-empty-column-header-in-a-pandas-dataframe-without-exporting-t
+
+Scraping JSON data from a URL that requires a login ----> https://stackoverflow.com/questions/53491678/scraping-json-data-from-a-url-that-requires-a-login
+						    ----> https://stackoverflow.com/questions/12965203/how-to-get-json-from-webpage-into-python-script
+
+Correct way to try/except using Python requests module?  ----> https://stackoverflow.com/questions/16511337/correct-way-to-try-except-using-python-requests-module
+
+How to show all columns' names on a large pandas dataframe? ----> https://stackoverflow.com/questions/49188960/how-to-show-all-columns-names-on-a-large-pandas-dataframe
+
+Python Requests throwing SSLError ----> https://stackoverflow.com/questions/10667960/python-requests-throwing-sslerror
+					https://stackoverflow.com/questions/9054820/python-requests-exception-handling
+
+How do I find the duplicates in a list and create another list with them? ----> https://stackoverflow.com/questions/9835762/how-do-i-find-the-duplicates-in-a-list-and-create-another-list-with-them
+
+delete rows based on duplicates in one column pandas ----> https://stackoverflow.com/questions/12497402/python-pandas-remove-duplicates-by-columns-a-keeping-the-row-with-the-highest
+
+How to write a file to a specific directory in Python ---> https://www.kite.com/python/answers/how-to-write-a-file-to-a-specific-directory-in-python
+							   https://www.codegrepper.com/code-examples/python/save+request+response+json+to+file+python
+
+Python Sets vs Lists Time Complexity ----> https://stackoverflow.com/questions/2831212/python-sets-vs-lists
+
+Unable to allocate array with shape and data type  ----> https://stackoverflow.com/questions/57507832/unable-to-allocate-array-with-shape-and-data-type
+							 https://stackoverflow.com/questions/62839068/memoryerror-unable-to-allocate-mib-for-an-array-with-shape-and-data-type-when
+
+Notebook validation failed Jupyter -----> https://stackoverflow.com/questions/66746193/notebook-validation-failed-jupyter?noredirect=1
+							
+Precision and recall scores ---> I used cross_val_score to measure precision of my model. for recall you can use this method which takes y_predicted and y_true as input and gives you recall number. 
+				https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score 
+
+Parameter "stratify" from method "train_test_split" (scikit Learn) ----> https://stackoverflow.com/questions/34842405/parameter-stratify-from-method-train-test-split-scikit-learn
+
+NLP transformer + bert -----> https://www.youtube.com/results?search_query=bert+krish+naik
+
+Top YouTube playlist for Data Science and AI that you must check ----> https://www.linkedin.com/pulse/top-youtube-playlist-data-science-ai-you-must-check-mamdapure
+
+Imbalance dataset XgBoost = https://machinelearningmastery.com/xgboost-for-imbalanced-classification/
+Multiclass --> https://datascience.stackexchange.com/questions/16342/unbalanced-multiclass-data-with-xgboost
+Link will also be in github
