@@ -67,3 +67,29 @@ Multiclass --> https://datascience.stackexchange.com/questions/16342/unbalanced-
 Link will also be in github
 
 Threshold Moving for imbalanced dataset - https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/
+
+EDA Pandas profiling, EDA Data insights - Check Demand prediction timeseries project -Github
+
+Numpy Matlab error - reduce the numpy version.
+
+Label encoding - example present in Demand prediction of driver timeseries - github
+
+Regression metric RMSE - Check Demand prediction timeseries project -Github
+
+Time Series - Multi-Step time Series - Check Demand prediction timeseries project -Github
+
+Unstacking and filling Missing dates for a user which was present in other users - Check Demand prediction timeseries project -Github
+
+pip install -r requirement.txt - To install the libraries
+
+Creating new environment for python - Python3 -m venv name_of_env or python -m venv trial_env or conda.bat create --name trial_env (This works in anaconda prompt)
+
+Activating new environment for python - conda activate env_name
+
+list the environments present already - `conda info --envs`
+
+
+
+
+
+
